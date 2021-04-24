@@ -1,0 +1,37 @@
+body{
+    background-size:cover;
+    background-position:center;
+}
+
+#heading{
+   margin:0px;
+    margin-top:10px;
+    width:97%;
+    background-color: burlywood;
+border-radius:10px;
+color:white;
+}
+
+label{
+    color:blue;
+    font-size:17px;
+    margin-top:10px;
+}
+
+#my_select{
+    background-color:pink;
+    border:none;
+   height:27px;
+  color:chocolate;
+   font-size:20px;
+}
+
+canvas{
+    border-radius:5px;
+    box-shadow:10px 10px 10px grey;
+    
+}
+
+#status{
+    margin-bottom:20px;
+}
